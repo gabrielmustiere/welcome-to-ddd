@@ -1,19 +1,19 @@
-# Welcome to Domain-Driven Design (DDD)
+# Bienvenue dans le Domain-Driven Design (DDD)
 
-This project contains definitions of DDD and fundamental concepts to reduce the learning curve and confusion.
+Ce projet contient des définitions de DDD et de ses concepts fondamentaux afin de réduire la courbe d'apprentissage et la confusion autour du sujet.
 
-![DDD on a page](resources/ddd_on_a_page.jpg)
+![DDD en une page (english)](resources/ddd_on_a_page.jpg)
 
 ## Getting started with DDD
 
-DDD is not an all-or-nothing deal. You can apply the ideas from DDD as much or as little as you feel is beneficial to the project you're working on.
+DDD n'est pas une affaire de tout ou rien. Vous pouvez appliquer les outils DDD autant ou aussi peu que vous le jugez utile pour le projet sur lequel vous travaillez.
 
-For some projects you might just apply DDD to your discovery work, for other projects you might skip strategic DDD and just start by modelling in code with some lightweight visualization. Don't feel pressured into over-applying DDD.
+Pour certains projets, vous pouvez vous contenter d'appliquer DDD pour découvrir le métier, sur d'autres projets, vous pouvez ignorer la partie stratégique de DDD et commencer par modéliser en code avec de simple schéma. Ne vous sentez pas obligé de sur-appliquer la DDD pour tous vos projets et tous vos besoins.
 
-Here are some of the ways in which you can get started with learning DDD or applying it immediately to your current project.
+Voici quelques-unes des façons dont vous pouvez commencer à apprendre DDD ou à l'appliquer immédiatement à votre projet actuel.
 
-- Check out [The DDD Starter Modelling Process](https://github.com/ddd-crew/ddd-starter-modelling-process) if you want to see how DDD can be applied cohesively to different aspects of software development from discovery to strategic to tactical.
+- Consultez [The DDD Starter Modelling Process] (https://github.com/ddd-crew/ddd-starter-modelling-process) si vous voulez voir comment DDD peut être appliqué de manière cohérente à différents aspects du développement logiciel, de la découverte en passant par les patterns stratégiques et techniques.
 
-- Get started with hands-on techniques using [Visual Collaboration Tools](https://leanpub.com/visualcollaborationtools), a free ebook containing workshop recipes for a number of collaborative DDD techniques including EventStorming, Domain Storytelling, Domain Quiz, and Context Mapping.
+- Commencez par des techniques pratiques en utilisant [Visual Collaboration Tools](https://leanpub.com/visualcollaborationtools), un ebook gratuit contenant des recettes d'atelier pour un certain nombre de techniques DDD collaboratives, notamment : EventStorming, Domain Storytelling, Domain Quiz et Context Mapping.
 
-- Read Eric Evans' [DDD Reference Guide](https://www.domainlanguage.com/wp-content/uploads/2016/05/DDD_Reference_2015-03.pdf) which provides definitions for the traditional DDD patterns.
+- Lisez le [DDD Reference Guide] (https://www.domainlanguage.com/wp-content/uploads/2016/05/DDD_Reference_2015-03.pdf) d'Eric Evans, qui fournit des définitions des modèles DDD traditionnels.
